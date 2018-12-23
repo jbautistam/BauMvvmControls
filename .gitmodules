@@ -1,0 +1,6 @@
+[submodule "Modules/BauMvvm"]
+	path = Modules/BauMvvm
+	url = https://github.com/jbautistam/BauMvvm
+[submodule "Modules/LibSystem.Windows"]
+	path = Modules/LibSystem.Windows
+	url = https://github.com/jbautistam/LibSystem.Windows
